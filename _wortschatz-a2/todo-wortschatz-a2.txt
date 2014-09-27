@@ -1,0 +1,22 @@
+rzeczownik z liczb¹ mnog¹ - zaczyna siê z du¿ej litery, ostatni znak jest liter¹ niepusta kolumna Präsens/Plural
+
+=ORAZ(PORÓWNAJ(FRAGMENT.TEKSTU(C3;1;1);LITERY.WIELKIE(FRAGMENT.TEKSTU(C3;1;1)));NIE(LUB(CZY.LICZBA(ZNAJD(".";C3;1));CZY.LICZBA(ZNAJD("?";C3;1));CZY.LICZBA(ZNAJD("!";C3;1))));ILE.NIEPUSTYCH(D3)>0)
+
+
+
+
+czasownik z form¹ - koñczy siê na -en, niepusta odpowiednia kolumna
+mo¿liwe kombinacje:
+
+Präsens		Präteritum	Perfekt
+x		o		o
+o		x		o
+o		o		x
+x		x		o
+o		x		x
+x		o		x
+x		x		x	
+
+generowanie odpowiedniego ci¹gu znaków
+=Z£¥CZ.TEKSTY(JE¯ELI(LUB(K2;L2;M2);"(+ ";"");JE¯ELI(K2;"Präsens";"");JE¯ELI(ORAZ(K2;LUB(L2;M2));", ";"");JE¯ELI(L2;"Imperfekt";"");JE¯ELI(ORAZ(LUB(K2;L2);M2);", ";"");JE¯ELI(M2;"P. II";"");JE¯ELI(LUB(K2;L2;M2);")";""))	
+

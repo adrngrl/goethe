@@ -1,0 +1,22 @@
+# Ignore:
+# all subdirectories but not these beginning with underscore
+*/
+!_*/
+!_*/*/
+
+# Executables
+*.exe
+*.bat
+
+# LaTeX temporary files
+*.aux
+*.log
+*.undo
+*.blg
+
+# Corel Designer backup files
+Backup_of_
+
+# Temporary MS Office files
+~*
+
