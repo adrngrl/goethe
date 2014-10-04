@@ -1,25 +1,3 @@
-# Ignore:
-# all subdirectories beginning with underscore
-_*/
-_*/*/
-
-# Executables
-*.exe
-*.bat
-
-# LaTeX temporary files
-*.aux
-*.log
-*.undo
-*.blg
-
-# Corel Designer backup files
-Backup_of_
-
-# Temporary MS Office files
-~*
-
-# Java Eclipse project
 # Directories #
 /build/
 /bin/

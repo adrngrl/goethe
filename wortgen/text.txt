@@ -1,0 +1,76 @@
+bevorzugen, , %T	faworyzowaæ 
+behandeln, , %T	traktowaæ 
+ohne mich hervorheben zu wollen, , %T	nie chc¹c siê przechwalaæ 
+hautnah, , %T	na w³asnej skórze 
+s Erscheinungsbild, , %T	prezencja, wygl¹d (+ Pl.)
+überbewerten, , %T	zbyt wysoko oceniaæ 
+anziehend, , %T	poci¹gaj¹cy, atrakcyjny 
+kaschieren, , %T	ukrywaæ 
+abgeschminkt, , %T	nieumalowany 
+erschreckend, , %T	przera¿aj¹cy 
+zur Vernunft kommen, , %T	pójœæ po rozum do g³owy 
+sicherlich, , %T	z pewnoœci¹ 
+unter Umständen, , %T	w pewnych okolicznoœciach 
+r Betrüger, %C, -, %T	oszust (+ Pl.)
+Es steht außer Frage., , %T	To nie podlega dyskusji. 
+höchstwahrscheinlich, , %T	najprawdopodobniej 
+ausnahmlos, , %T	bez wyj¹tku 
+e Einschränkung, %C, -en, %T	ograniczenie (+ Pl.)
+eventuell, , %T	ewentualnie 
+Mir scheint ..., , %T	Wydaje mi siê ... 
+Das kann man wohl sagen., , %T	Mo¿na to z ca³¹ pewnoœci¹ powiedzieæ 
+zweifelsohne, , %T	bez w¹tpienia 
+Es sieht danach aus ..., , %T	Wygl¹da na to ... 
+e Vermutung, %C, -en, %T	przypuszczenie (+ Pl.)
+e Überzeugung, %C, -en, %T	przekonanie (+ Pl.)
+möglicherweise, , %T	byæ mo¿e 
+vermutlich, , %T	przypuszczalnie 
+wahrscheinlich, , %T	prawdopodobnie 
+Ich zweifle daran, dass ..., , %T	W¹tpiê, ¿e ... 
+auf jeden Fall, , %T	z pewnoœci¹/w ka¿dym razie 
+in jedem Fall, , %T	tak czy siak 
+Es gibt keinen Zweifel daran, dass ..., , %T	Nie ma w¹tpliwoœci co do tego, ¿e ... 
+hundertprozentig, , %T	stuprocentowo 
+schlau, , %T	sprytny 
+schädlich, , %T	szkodliwy 
+Auf der anderen Seite ..., , %T	Z drugiej strony ... 
+allerdings, , %T	jednak 
+Was dagegen spricht, ist ..., , %T	Co przemawia przeciwko temu, to ... 
+Lassen Sie mich folgendes Beispiel anführen., , %T	Pozwólcie pañstwo, ¿e podam nastêpuj¹cy przyk³ad. 
+zusammenfassend, , %T	podsumowuj¹c 
+insgesamt, , %T	ogólnie rzecz bior¹c 
+Aus meiner persönlichen Erfahrung kann ich nur bestätigen, dass ..., , %T	Na podstawie mojego osobistego doœwiadczenia mogê jednynie potwierdziæ, ¿e ... 
+fordern, , %T	¿¹daæ 
+erweitern, , %T	rozszerzaæ 
+hervortretenden Ader, , %T	wydatne ¿y³y 
+e Sehne, %C, -n, %T	œciêgno (+ Pl.)
+r Makel, %C, -n, %T	skaza (+ Pl.)
+angeblich, , %T	podobno 
+e Mücke, %C, -n, %T	komar (+ Pl.)
+r Mückenstich, %C, -e, %T	uk¹szenie komara (+ Pl.)
+e Schwellung, %C, -en, %T	obrzêk (+ Pl.)
+e Wange, %C, -n, %T	policzek (+ Pl.)
+etw in Kauf nehmen, , %T	pogodziæ, liczyæ siê z czymœ 
+r Eingriff, , %T	zabieg (+ Pl.)
+falsche Ideale vermitteln, , %T	prezentowaæ niew³aœciwe wzorce 
+schlaf, , %T	zwiotcza³y 
+wohlbeleibt, , %T	przy koœci 
+e Hüfte, %C, -n, %T	biodro (+ Pl.)
+r Teint, %C, -s, %T	cera (+ Pl.)
+r Waschbrettbauch, , %T	kaloryfer (na brzuchu) (+ Pl.)
+mollig, , %T	pulchny 
+in sein, , %T	byæ w modzie 
+umstritten, , %T	sporny 
+erneut, , %T	ponownie 
+e Ampel, %C, -n, %T	œwiat³o (sygnalizacja œwietlna) (+ Pl.)
+in Bezug auf den Artikel, , %T	odnoœnie artyku³u 
+bewogen sein, , %T	byæ poruszonym 
+e Herausforderung, %C, -en, %T	wyzwanie (+ Pl.)
+kümmerlich, , %T	nêdzny, marny 
+r Nagellack, %C, -e, %T	lakier do paznokci (+ Pl.)
+ 
+ 
+ 
+ 
+
+
