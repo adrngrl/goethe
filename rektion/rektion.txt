@@ -15,7 +15,7 @@ sich halten an A	trzymaæ siê [czegoœ]
 hängen an D	byæ przywi¹zanym do [kogoœ]
 sich gewöhnen an A	przyzwyczaiæ siê do
 leiden an D	cierpieæ na
-liegen an D	zale¿eæ na/od (l)
+liegen an D	zale¿eæ od (l)
 liefern an A	dostarczaæ [komuœ]
 mangeln an D	brakowaæ [czegoœ] (m)
 sich rächen an D	zemœciæ siê na
@@ -23,7 +23,7 @@ scheitern an D	rozbijaæ siê o
 schreiben an A	pisaæ do
 sterben an D	umrzeæ na
 teil-nehmen an D	braæ udzia³ w
-vor-beigehen an D	przechodziæ obok
+vorbei-gehen an D	przechodziæ obok
 sich wenden an A	zwracaæ siê do
 zweifeln an D	w¹tpiæ w
 achten auf A	uwa¿aæ na (ach)
@@ -55,7 +55,7 @@ bestehen aus D	sk³adaæ siê z
 sich ergeben aus D	wynikaæ z (e)
 folgen/resultieren aus D	wynikaæ z (f/r)
 stammen aus D	wywodziæ siê z
-werden aus D	staæ siê/"wyrosn¹æ" z
+werden aus D	staæ siê/&quot;wyrosn¹æ&quot; z
 an-rufen bei D	zatelefonowaæ do
 bleiben bei D	pozostaæ przy
 helfen bei D	pomagaæ w
@@ -68,7 +68,7 @@ teilen durch A	dzieliæ przez (t)
 bürgern für A	gwarantowaæ [coœ]
 sich bedanken (bei jdm) für A	podziêkowaæ (komuœ) za [coœ]
 danken für A	dziêkowaæ za
-sich einigen für A	nadawaæ siê do
+sich eignen für A	nadawaæ siê do
 sich ein-setzen für A	opowiadaæ siê za
 sich entscheiden für A	zdecydowaæ siê na (entsche)
 sich (bei jdm) entschuldigen für A	usprawiedliwiæ siê (przed kimœ) z powodu
@@ -79,7 +79,7 @@ sich interessieren für A	interesowaæ siê [czymœ]
 kandidieren für A	kandydowaæ do
 kämpfen für A/um A	walczyæ o
 sein für A	byæ za
-sorgen für A	martwiæ siê o [coœ/kogoœ]
+sorgen für A	zadbaæ/troszczyæ siê o [coœ]
 sein gegen A	byæ przeciwko
 sich versichern gegen A	ubezpieczyæ siê od
 verstoßen gegen A	wykroczyæ przeciw
@@ -113,7 +113,7 @@ riechen nach D	pachnieæ [czymœ] (r)
 rufen nach D	wo³aæ [kogoœ]
 sich richten nach D	kierowaæ siê [czymœ]
 schmecken nach D	mieæ smak [czegoœ]
-schmecken nach D	têskniæ za
+sich sehnen nach D	têskniæ za
 streben nach D	d¹¿yæ do
 suchen nach D	poszukiwaæ [czegoœ]/[kogoœ]
 sich ärgern über A	z³oœciæ siê z powodu
@@ -144,7 +144,7 @@ trauern um A	op³akiwaæ [kogoœ]/smuciæ siê z powodu [czegoœ]
 leiden unter D	cierpieæ z powodu
 verstehen unter D	rozumieæ przez [coœ]
 ab-hängen von D	zale¿eæ od (ab)
-ab-sehen von D	abstrahowaæ od, pomijaæ
+ab-sehen von D	abstrahowaæ od
 befreien von D	uwolniæ od
 berichten von D/über A	relacjonowaæ [coœ]
 erfahren von D	dowiedzieæ siê o [czymœ]
@@ -175,7 +175,7 @@ führen zu D	prowadziæ do
 gehören zu D	nale¿eæ do
 gratulieren zu D	gratulowaæ z [okazji]
 raten zu D	doradzaæ [coœ]
-übergehen zu D	przejœæ do
+über-gehen zu D	przejœæ do
 verhelfen zu D	dopomóc w
 werden zu D	stawaæ siê [czymœ]
 zwingen zu D	zmuszaæ do
@@ -199,15 +199,15 @@ zusammen-arbeiten mit D	wspó³pracowaæ z
 ab-weichen von D	odbiegaæ od/ró¿niæ siê od [czegoœ]
 neugierig sein an A	byæ ciekawym [czegoœ]
 Wert legen auf A	przywi¹zywaæ wagê do [czegoœ]
-sich abheben von D	odró¿niaæ siê od [czegoœ]
-aufwiegen durch A	zrównowa¿yæ za pomoc¹ [czegoœ]
-zurechtkommen mit D	dogadywaæ siê z [kimœ]
+sich ab-heben von D	odró¿niaæ siê od [czegoœ]
+auf-wiegen durch A	zrównowa¿yæ za pomoc¹ [czegoœ]
+zurecht-kommen mit D	dogadywaæ siê z [kimœ]
 eine Schwache/Faible haben für A	mieæ s³aboœæ do [czegoœ]
 Respekt haben vor D	mieæ respekt przed [czymœ]/powa¿anie dla [czegoœ]
 klingen nach D	brzmieæ jak [coœ]
-etw an etw A legen/an-lehnen	opieraæ siê na [czymœ]
+etw legen/an-lehnen an A	opieraæ coœ na [czymœ]
 schuld sein an D	byæ winnym [czegoœ]
-mit-machen bei D	wzi¹æ udzia³ [w czymœ]
+mit-machen bei D	wzi¹æ udzia³ [w czymœ] (m)
 ein Zeichen setzen gegen A	sprzeciwiæ siê [czemuœ]
 zu tun haben mit D	mieæ do czynienia z [czymœ/kimœ]
 sich bewaffnen mit D	uzbrajaæ siê w [coœ]
@@ -215,33 +215,33 @@ sich reißen um A	zabijaæ siê o [coœ] (pot.)
 aus-gehen von D	pochodziæ od [czegoœ]/mieæ swoje Ÿród³o w [czymœ]
 jdm erpressen mit D	szanta¿owaæ kogoœ [czymœ]
 heran-kommen an A	zbli¿aæ siê do [czegoœ]
-sich entsinnen an A	przypominaæ sobie [kogoœ/coœ]
-jdn unterstützen bei D/in D	pomagaæ komuœ przy [czymœ]/w [czymœ]
+sich entsinnen an A	przypominaæ sobie [kogoœ/coœ] (en..)
+jdn unterstützen bei D/in D	wspieraæ kogoœ/pomagaæ komuœ przy [czymœ]/w [czymœ]
 neigen zu D	mieæ tendencjê do [czegoœ]
 zurück-gehen auf A	mieæ pocz¹tek w [czymœ], siêgaæ [czegoœ]
 staunen über A	dziwiæ siê [komuœ/czemuœ]
-sich widerspiegeln in D	odbijaæ/odzwierciedlaæ siê w [czymœ]
-jdn aus-schließen aus D	usun¹æ, wykluczyæ z [czegoœ]
-Zweifel haben an D	mieæ w¹tpliwoœci co do [czegoœ]
+sich wieder-spiegeln in D	odbijaæ/odzwierciedlaæ siê w [czymœ]
+jdn aus-schließen aus D	usun¹æ, wykluczyæ kogoœ z [czegoœ]
+Zweifel haben an D	mieæ w¹tpliwoœæ co do [czegoœ]
 protestieren gegen A	protestowaæ przeciwko [czemuœ]
 überreden zu D	namówiæ do [czegoœ]
-sich fernhalten von D	trzymaæ siê z daleka od [kogoœ/czegoœ]
+sich fern-halten von D	trzymaæ siê z daleka od [kogoœ/czegoœ]
 an-knüpfen an A	przywi¹zaæ do [czegoœ]
 basteln an D	majsterkowaæ przy [czymœ]
 ein-steigen in A	wsi¹œæ do [pojazdu]
 hungrig sein auf A	mieæ apetyt na [coœ]
-jdn ansprechen auf A	zwróciæ siê do kogoœ w sprawie [czegoœ]
+jdn an-sprechen auf A	zwróciæ siê do kogoœ w sprawie [czegoœ]
 kranken an D	chorowaæ na [coœ]
 sich äußern zu D	wyraziæ swoje zdanie co do [czegoœ]
 sich engagieren für A	zaanga¿owaæ siê [w]
 sich erschrecken vor D	przestraszyæ siê [kogoœ/czegoœ]
-sich zurechtfinden in D (z)	orientowaæ siê w [mieœcie/otoczeniu]
+sich zurecht-finden in D	orientowaæ siê w [mieœcie/otoczeniu] (z)
 vorbei-schauen bei D	zagl¹daæ, wst¹piæ do [kogoœ]
 verzweifeln an D	zw¹tpiæ w [coœ]
-vorbeireden an A	mówiæ o czymœ innym ni¿ rozmówca, nie rozumieæ siê
+vorbei-reden an A	mówiæ o czymœ innym ni¿ rozmówca, nie rozumieæ siê w sprawie [czegoœ]
 Anteil nehmen an D	wzi¹æ w czymœ udzia³
 aus-rutschen auf D	poœlizgn¹æ siê na [czymœ]
-gut auskommen mit D	wytyrzymywaæ z [kimœ]
+gut aus-kommen mit D	wytyrzymywaæ z [kimœ]
 jdm Bescheid geben über A	poinformowaæ kogoœ/daæ komuœ znaæ o [czymœ]
 sich bescheiden mit D	zadowoliæ siê [czymœ]
 jdn überreden zu D	namówiæ/przekonaæ kogoœ do [czegoœ]
