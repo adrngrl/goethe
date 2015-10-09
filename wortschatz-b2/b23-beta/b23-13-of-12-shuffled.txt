@@ -1,0 +1,40 @@
+s Honorar, -e	honorarium (+ Pl.)
+e Mülltrennung	sortowanie odpadów 
+s Heizöl	olej opa³owy 
+e Lärmbelastigung	nadmierne natê¿enie ha³asu 
+r Ausstoß	emisja, wydzielanie (np. spalin) 
+r Vorbote, -n	zwiastun (jakiegoœ zjawiska) (+ Pl.)
+s Atomkraftwerk	elektrownia atomowa 
+vollständig	kompletny, ca³kowity 
+r Umzug, ü-e	pochód (+ Pl.)
+r Aberglaube	przes¹d, zabobon 
+e Belastung	obci¹¿enie 
+angesichts G	w obliczu [czegoœ] 
+r Ausstieg aus D	rezygnacja z [czegoœ] 
+aus-richten	przekazaæ (informacjê) 
+s Erdgas	gaz ziemny 
+s Ersparnis, -se	oszczêdnoœci (zaoszcz. suma) (+ Pl.)
+sich schwärmen in A	gromadziæ siê w [jakimœ miejscu] 
+e Turbine	turbina 
+Vorwürfe machen	czyniæ wyrzuty 
+verunstalten	szpeciæ 
+sich weigern etw zu tun	wzbraniaæ siê przed zrobieniem czegoœ 
+e Niederlage	klêska, pora¿ka 
+s Windrad, ä-er	wiatrak (generator en. elektr.) (+ Pl.)
+r Held, -en	bohater (od bohaterstwo) (+ Pl.)
+sich bekennen zu D	przyznaæ siê do [czegoœ] 
+zur Neige gehen	chyliæ siê ku koñcowi 
+in Anbetracht G	z uwagi na [coœ] 
+jdm etw erwidern	odpowiedzieæ/odwzajemniæ komuœ coœ 
+e Erderwärmung	ocieplenie klimatu 
+r Treibhauseffekt	efekt cieplarniany 
+s Abgas, -e	spaliny (+ Pl.)
+e Maßnahme, -n	œrodek, krok (+ Pl.)
+r Verfasser	autor 
+waghalsig	ryzykowny 
+r Zuwachs, ä-e	przyrost, wzrost (+ Pl.)
+r Bräutigam, -e	pan m³ody (+ Pl.)
+r Klimawandel	zmiana klimatu 
+r Vorrat, ä-e	zasób (+ Pl.)
+etw zustande bringen	doprowadziæ do czegoœ 
+ab-nehmen/zu-nehmen	zwiêkszaæ/zmniejszaæ siê 

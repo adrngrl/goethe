@@ -1,0 +1,2 @@
+skrypty do pracy z bazą danych:
+goral@galaxy.agh.edu.pl:opt/git/db-scripts.git

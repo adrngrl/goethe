@@ -1,0 +1,16 @@
+Abgasaffäre bei VW: Was wir bisher wissen - und was nicht.
+Spiegel Online
+
+Was wir wissen:
+
+Volkswagen hat bei den Abgasmessungen getrickst
+Volkswagen hat in den USA im großen Stil Abgasmessungen bei seinen Fahrzeugen manipuliert. Aufgefallen war das durch Nachtestes der US-Umweltbehörde (EPA). Diese hatte einen Tipp vom renommierten Forschungsinstitut (International Council on Clean Transportation) aus Deutschland bekommen. Während die mit dem Dieseltriebwerk vom Typ-189 ausgestatteten Fahrzeuge beim regulären Abgastests unter Laborbedingungen keine Auffäligkeiten zeigten, lag der Schadstoffausstoß bei den Nachtests unter realen Bedingungen deutlich höher, teils um das 35-fache höher als erlaubt.
+
+Volkswagen hat die Manipulation zugegeben
+Erklären lässt sich dieses Abgasverhalten durch den Einsatz spezieller Software. Diese erkennt, wenn sich das Fahrzeug auf einem Prüfstend befindet und optimiert die Parameter von Motor und Getriebe auf die Testsituation. VW hat den Einsatz dieser Software zugegeben, elf Milionen motorem mit dieser Steuerung sind bei Volkswagen verbaut worden.
+
+So funktioniert Trickserei auf dem Prüfstand
+Eine automatische erkennung von Prüfstandsituationen ist bei aktuellen Fahrzeugen problemlos möglich, da eine Vielzahl von Sensoren in den Autos verbaut ist. Der Gierratensensor, der zum Beispiel für das ESP wichtig ist und Bewegungen des Fahrzeughecks mit Lenkeingaben verknüpft und meldet, wenn das Auto ins Schleudern gerät, merkt, wenn sich das Lenkrad nicht bewegt, obwohl die Räder auf den Rollen des Prüfstands beschleunigen.
+
+Das waren die Folgen im Alltagsbetrieb
+Die schlechten Abgasergebnisse kamen laut Recherchen des ICCT zumindest bei den Modellen Passat un Jetta, dadurch zustande, dass die Abgasnachbehandlung im Realbetrieb durch die Steuerungssoftware drastisch heuntergefahren wurde. Beim Passat wird das Abgas durch das Einspritzen von Harnstoff (AdBlue) gereinigt, durch den die Stickoxide zu Wasser und Stickstoff umgewandelt werden. Bei den US-Fahrzeugen von Volkswagen aber wurde diese Harnstoffeinspritzung offensichtlich gezielt unterdrückt. Der Jetta verfügt über eine andere Technik. Beim sogenannten NOx-Speicherkatalzsator lagern sich die Stickoxide auf einer Oberfläche ab. Ist diese voll, wird der Katalysator währent der Fahrt durch eine zusätliche Kraftstoffeinspritzung regeneriert. Diese Regeneration fand im realen Betrieb nur teilweise oder gar nicht statt.

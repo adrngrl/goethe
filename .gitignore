@@ -3,6 +3,11 @@
 _*/
 _*/*/
 
+# Images
+*.jpg
+*.pdf
+*.avi
+
 # Executables
 *.exe
 *.bat

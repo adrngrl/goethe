@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language id="wubung" _name="Wortschatz Uebung" version="2.0" _section="Markup">
+  <metadata>
+    <property name="mimetypes">text/plain</property>
+    <property name="globs">*.</property>
+  </metadata>
+
+  <styles>
+    <style id="fillfld"   _name="Filled Field"  map-to="def:constant" />
+    <style id="newword"   _name="New Word"      map-to="def:shebang" />
+  </styles>
+  
+  <definitions>
+    
+    <context id="wubung">
+      <include>
+      
+        <context id="fillfld" style-ref="fillfld">
+          <start>_</start>
+          <end>\s</end>
+        </context>
+ 
+        <context id="newword" style-ref="newword">
+          <start>\*</start>
+          <end>\s</end>
+        </context>
+        
+      </include>
+    </context>
+
+  </definitions>
+  
+</language>

@@ -1,0 +1,492 @@
+selbstbezogen	narcystyczny, egoistyczny 
+vorwiegend	przewa¿nie 
+anstatt	zamiast 
+jedoch	jednak 
+weiterhin	nadal/ponadto 
+r Umgang	obchodzenie siê 
+ferner	poza tym/dalej 
+erwähnen	wspominaæ 
+freiwillig	dobrowolny, ochotniczy 
+dazwischenfragen	przerwaæ wypowiedŸ pytaniem 
+verlangen	¿¹daæ, domagaæ siê 
+gegen Unterkunft arbeiten	pracowaæ za nocleg 
+Gern geschehen!	ca³a przyjemnoœæ po mojej stronie 
+einer Verlängerung stattgeben	uwzglêdniæ przed³u¿enie (np. umowy) 
+einen Beitrag entrichten	odprowadziæ sk³adkê/op³atê 
+Vorschriften einhalten	przestrzegaæ przepisów 
+Schäden beseitigen	naprawiaæ szkody 
+im Voraus bezahlen	zap³aciæ z góry 
+für die Schäden haften	odpowiadaæ za szkody 
+schuldhaftes Verhalten	karygodne zachowanie 
+Verstoß gegen die Hausordnung	wykroczenie przeciwko porz¹dkowi domowemu 
+Mietrückstand von 2 Monaten	zaleg³y dwumiesiêczny czynsz 
+etwas zu gewerblichen Zwecken nutzen	u¿ywaæ czegoœ do celów rzemieœlniczych/przemys³owych 
+eine Untervermietung ist nicht gestattet	podnajmowanie jest niedozwolone 
+fristlos kündigen	wypowiedzieæ bezzw³ocznie (np. umowê) 
+e Jahreszeit	pora roku 
+mild	³agodny (np. klimat) 
+gefrieren	zamarzaæ 
+ein-frieren	zamarzaæ 
+erfrieren	zamarzaæ (o cz³owieku, roœlinie) 
+kahl	³ysy (cz³owiek), bez liœci (drzewo) 
+r Ast, ä-e	konar (+ Pl.)
+s Reh, -e	sarna (+ Pl.)
+s Kraut, ä-er	zio³o (+ Pl.)
+verblühen	przekwitn¹æ 
+vertrocknen	usychaæ (ga³¹Ÿ, roœlina) 
+r Igel, -	je¿ (+ Pl.)
+feucht	wilgotny, mokry 
+r Frosch, ö-e	¿aba (+ Pl.)
+e Wurzel, -	korzeñ (+ Pl.)
+saftig	soczysty (owoc), bujny (roœlinnoœæ) 
+e Blüte, -n	kwiat (+ Pl.)
+e Mücke, -n	komar (+ Pl.)
+welken	wiêdn¹æ 
+schattig	cienisty, zacieniony 
+e Biene, -n	pszczo³a (+ Pl.)
+s Unkraut, ä-er	chwast (+ Pl.)
+s Laub	listowie 
+tiefe Dunkelheit	g³êboka ciemnoœæ 
+Der Sturm nimmt zu.	Burza siê wzmaga. 
+Der Wind bläst.	Wiatr dmie. 
+blasen, bläst, blies, h, geblasen	d¹æ, wiaæ (o wietrze) (+ Präsens, Imperfekt, P. II)
+Es hört auf.	Przestaje (padaæ). 
+Es ist glatt.	Jest œlisko. 
+Das Eis trägt.	Lód jest twardy (wystarczaj¹co do je¿d¿enia na ³y¿wach). 
+nass	mokry 
+hitzefrei bekommen	nie mieæ zajêæ z powodu upa³u 
+r Reif	szron, szadŸ 
+e Tulpe, -n	tulipan (+ Pl.)
+e Narzisse, -n	narcyz (+ Pl.)
+r Krokus, -se	krokus (+ Pl.)
+s Geräusch, -e	odg³os (+ Pl.)
+r Schlitten	sanki 
+s Eisstadion, -ien	lodowisko (+ Pl.)
+s Gras	trawy 
+s Heu	siano 
+r Wandervogel, ö-	niesta³y cz³owiek (+ Pl.)
+r Zugvogel, ö-	ptak wêdrowny (+ Pl.)
+jdm etwas aus-machen	przeszkadzaæ komuœ 
+Macht es Ihnen etwas, wenn …?	Czy bêdzie panu przeszkadza³o, jeœli …? 
+einen Drachen steigen lassen	puszczaæ latawca 
+e Mehrheit	wiêkszoœæ 
+r Bedarf	potrzeba 
+s Verdienst, -e	zas³uga (+ Pl.)
+unerwarteterweise	nieoczekiwanie 
+gleichwertig	równowartoœciowy (np. zastêpca) 
+dürr	uschniêty, ja³owy 
+aussichtslos	beznadziejny, bezcelowy 
+e Einsicht	wgl¹d/wyrozumia³oœæ 
+leichtsinnig	lekkomyœlny 
+e Berechnung	wyrachowanie 
+e Eifersucht	zazdroœæ (o kogoœ) 
+r Ekel	wstrêt, obrzydzenie 
+r Leichtsinn	lekkomyœlnoœæ 
+s Misstrauen	niedowierzanie 
+s Mitleid	wspó³czucie, litoœæ 
+s Mitgefühl	wspó³czucie 
+r Neid	zazdroœæ (o coœ) 
+e Sehnsucht	têsknota 
+r Unsinn	bezsensownoœæ 
+e Vernunft	rozs¹dek 
+s Verständnis	zrozumienie 
+s Vertrauen	zaufanie 
+e Vorsicht	przezornoœæ, ostro¿noœæ 
+r Zorn	gniew, z³oœæ 
+e Furcht	obawa, strach 
+sich D überlegen, ob …	zastanawiaæ siê, czy … 
+e Enttäuschung	rozczarowanie 
+zittern	dr¿eæ 
+erahnen	przeczuwaæ 
+e Schüchternheit	nieœmia³oœæ 
+verlegen	zak³opotany 
+e Empfindung	uczucie, odczucie 
+verkörpern	ucieleœniaæ 
+e Vorliebe	upodobanie, sk³onnoœæ 
+e Abneigung	niechêæ, antypatia 
+ein-engen	ograniczaæ 
+unmittelbar	bezpoœredni 
+e Bedrohung	zagro¿enie 
+sich verkriechen	zaszywaæ, chowaæ siê 
+heftig	silny, gwa³towny 
+hingegen	natomiast 
+unterschätzen	nie doceniaæ, lekcewa¿yæ 
+fördern	wspieraæ, wspomagaæ 
+darüber hinaus	poza tym 
+Widerstandskraft	odpornoœæ 
+s Durchsetzungsvermögen	asertywnoœæ 
+festigen	umacniaæ (np. charakter) 
+e Prise	szczypta 
+leistungsfähig	sprawny, wydajny 
+kaum vorstellbar	ledwie wyobra¿alny 
+r Meteorit schlägt ein	meteoryt uderza 
+r Dorn, -en	cierñ, kolec (+ Pl.)
+e Ente, -n	kaczka (+ Pl.)
+r Fleck, -e	plama (+ Pl.)
+festklammern	przyczepiæ coœ klamerkami 
+Häckche 
+r Löwenzahn	mniszek lekarski 
+e Klette	rzep (roœlina) 
+s Netz, -e	sieæ (pajêczyna) (+ Pl.)
+r Samen, -	nasiono (+ Pl.)
+e Schlange, -n	w¹¿ (+ Pl.)
+e Schwimmhaut	b³ona p³awna 
+e Spinne	paj¹k 
+schweben	unosiæ siê (w powietrzu) 
+stechen	k³uæ 
+tarnen	maskowaæ, kamuflowaæ 
+weben	tkaæ (np. pajêczynê) 
+r Stacheldraht, ä-e	drut kolczasty (+ Pl.)
+r Klettverschluss, ü-e	zapiêcie na rzepy (+ Pl.)
+e Meisterleistung	mistrzowski wyczyn 
+s Glanzstück	arcydzie³o 
+s Seil, -e	lina (+ Pl.)
+e Tarnung	kamufla¿ 
+r Fallschirm, -e	spadochron (+ Pl.)
+e Schwimmflosse	p³etwa (do nurkowania) 
+s Vorbild, -er	wzór (+ Pl.)
+s Erdbeben	trzêsienie ziemi 
+r Vulkanausbruch, ü-e	wybuch (erupcja) wulkanu (+ Pl.)
+aus-brechen	wybuchaæ (o wulkanie) 
+r Geysir, -e	gejzer (+ Pl.)
+r Eisberg	góra lodowa 
+s Hochwasser	powódŸ, wielka woda 
+r Sandsturm	burza piaskowa 
+s Polarlicht	zorza polarna 
+e Lawine	lawina 
+e Dürre	susza 
+e Sonnenfinsternis	zaæmienie S³oñca 
+r Blizzard	burza œnie¿na 
+r Hurrikan, -e	huragan (+ Pl.)
+s Gewitter	burza 
+r Erdrutsch, -e	osuniêcie siê ziemi (+ Pl.)
+e Flut/e Ebbe	przyp³yw/odp³yw 
+r Waldbrand, ä-e	po¿ar lasu (+ Pl.)
+r Sonnenaufgang/r Sonnenuntergang, ä-e	wschód/zachód S³oñca 
+r Regenbogen	têcza 
+r Eiskristall	kryszta³ek lodu 
+sorgfältig	staranny 
+nach-bilden	imitowaæ, kopiowaæ 
+nach-ahmen	naœladowaæ 
+e Libelle	wa¿ka 
+r Flügel	skrzyd³o 
+r Adler	orze³ 
+r Hai, -e	rekin (+ Pl.)
+r Schnabel, ä-	dziób (+ Pl.)
+e Feder, -n	pióro (+ Pl.)
+e Pusteblume	dmuchawiec 
+e Zange	szczypce, kleszcze 
+e Schale	skorupa, pancerz 
+winden	wiæ siê 
+die Lawine geht ab	lawina schodzi 
+mit-reißen	porwaæ coœ za sob¹ (np. o lawinie) 
+einen Unfall überleben	prze¿yæ wypadek 
+untern Wasser stehen	staæ pod wod¹ 
+aus-sterben	wymieraæ, wygin¹æ 
+ums Leben kommen	umrzeæ, zgin¹æ 
+Dach übern Kopf verlieren	straciæ dach nad g³ow¹ 
+r Matsch	b³oto 
+e Windhose	tr¹ba powietrzna 
+e Bö, -en	poryw wiatru (+ Pl.)
+s Quecksilber	rtêæ 
+r Meeresspiegel steigt an	poziom morza siê podnosi 
+überfluten	wylaæ, zalaæ 
+bahnbrechende Entdeckung	prze³omowe odkrycie 
+s Gefäß	naczynie 
+e Wüste	pustynia 
+r Wipfel	wierzcho³ek 
+e Pflaume, -n	œliwka (+ Pl.)
+r Geruch	zapach 
+s Eichhörnchen	wiewiórka 
+r Schmetterling	motyl 
+r Pilz	grzyb 
+tiefsinnig	g³êboki (np. myœl) 
+nichtssagend	nid nie mówi¹cy 
+e Errungenschaft	zdobycz, osi¹gniêcie 
+unerschöpflich	niewyczerpany 
+e Pinzette	pêseta 
+bescheiden	skromny 
+reinigen	oczyszczaæ 
+enthüllen	ods³aniaæ (np. prawdê) 
+s Wachs	wosk 
+verdecken	przykrywaæ 
+überwaltigen	opanowaæ/ogarniaæ (np. ogarn¹³ go smutek) 
+r Pol, -y	biegun (geogr.) (+ Pl.)
+unvermindert	nies³abn¹cy 
+e Hilfe anbieten	zaoferowaæ pomoc 
+zufällig	przypadkowo 
+ungewohnt	niezwyk³y, nietypowy 
+bejahen	przytakn¹æ 
+einen Vorschlag an-nehmen/ab-lehnen	przyj¹æ/odrzuciæ propozycjê 
+sich zum Abschied die Hand schütteln	podaæ sobie rêkê na po¿egnanie 
+e Begrüßung/r Abschied	powitanie/po¿egnanie 
+den Kontakt aufrecht erhalten/abbrechen	podtrzymywaæ/zerwaæ kontakt 
+jemanden korrekt/falsch anreden	zwróciæ siê do kogoœ poprawnie/niepoprawnie 
+verschiedener/derselben Meinung sein	byæ ró¿nego/tego samego zdania 
+vertraulich	poufny 
+jdm Bescheid geben	daæ komuœ znaæ o [czymœ] 
+jdn auf-fordern etw zu tun	wezwaæ kogoœ do zrobiena czegoœ 
+s Gutachten	ekspertyza, orzeczenie 
+ehrenamtlicher Helfer	honorowy wolontariusz (bez wynagrodzenia) 
+etw absichtlich/unabsichtlich tun	zrobiæ coœ celowo/nieumyœlnie 
+die Absicht haben	mieæ zamiar 
+e Betriebsrat	rada zak³adowa 
+e Kündigung	wypowiedzienie (np. umowy) 
+Kapitel 10 - Raus in die Welt 
+gegebenfalls	ewentualnie 
+im Schnee fest-fahren	ugrzêzn¹æ w œniegu 
+ganz von vorne	od samego pocz¹tku (np. zbudowaæ coœ) 
+sich hocharbeiten	wypracowywaæ sobie wysok¹ pozycjê 
+das Dreifache verdienen	zarabiaæ trzykrotnoœæ poprzedniej pensji 
+überstehen	znieœæ (np. obci¹¿enie), przebyæ (np. chorobê) 
+e Schuld ab-zahlen	sp³acaæ d³ug 
+verwirklichen	urzeczywistniaæ, realizowaæ (np. marzenie, plan) 
+s Entgegenkommen	zrozumienie, przychylnoœæ 
+vorteilhaft sein an D	byæ korzystnym w [czymœ] (np. w jakimœ pomyœle) 
+nachteilig sein an D	byæ niekorzystnym w [czymœ] (np. w jakimœ pomyœle) 
+meines Erachtens	moim zdaniem (m. E.) 
+r Anreiz, -e	zachêta (+ Pl.)
+dennoch	jednak¿e, przecie¿ 
+nahelegen	sugerowaæ 
+nach wie vor	w dalszym ci¹gu 
+Woran liegt es?	Od czego to zale¿y? 
+laut + G	wed³ug (np. wg. prasy) 
+s Darlehen, -	po¿yczka (+ Pl.)
+Es erstaunt nicht, dass ...	Nie dziwi, ¿e ... 
+vorübergehend	przelotny, przejœciowy 
+an-regen	zachêcaæ, wzmagaæ 
+ab-halten von D	powstrzymywaæ od [czegoœ] 
+erforderlich	konieczny, wymagany 
+von zu Hause aus	z domu (np. pracowaæ z domu) 
+hartnäckig	zawziêty 
+r Nacken, -	kark (+ Pl.)
+r Zweig, -e	ga³¹Ÿ (+ Pl.)
+s Gesundheitswesen	opieka zdrowotna 
+mitunter	niekiedy 
+atemberaubend	zapieraj¹cy dech 
+reizen	pobudzaæ/dra¿niæ/ciekawiæ 
+berücksichtigen	uwzglêdniaæ 
+e Belange	interesy 
+e Nachwuchskräfte	m³ode kadry, narybek 
+ein Anliegen nennen	wy³o¿yæ sprawê 
+e Aufenthaltsgenehmigung/s Aufenthaltserlaubnis	zezwolenie na pobyt 
+auf die Homepage verweisen	skierowaæ na stronê internetow¹ 
+e Auslandsvertretung	przedstawicielstwo zagraniczne 
+e Einbürgerung	naturalizacja 
+e Niederlassung	osiedlenie siê 
+e Impfung	szczepienie 
+befristet/unbefristet	na czas okreœlony/nieokreœlony 
+e Beendigung des Vertrags	zakoñczenie umowy 
+e Haftung	odpowiedzialnoœæ (np. prawna) 
+e Hausordnung	porz¹dek domowy 
+e Kaution	kaucja 
+e Übernahme	przejêcie (w posiadanie) 
+zuzüglich Nebenkosten	doliczaj¹c koszty eksploatacji 
+entrichten	regulowaæ (np. op³aty), odprowadzaæ (np. podatki) 
+r Werktag	dzieñ roboczy 
+übermäßig	nadmierny 
+etw nachfordern	za¿¹daæ czegoœ dodatkowo 
+gewerbliche Zwecke	cele przemys³owe 
+ausschließlig	wy³¹cznie 
+beseitigen	likwidowaæ (szkody) 
+sich polizeilich an-/abmelden	za-/wymeldowaæ siê na policji 
+wahrnehmen	postrzegaæ 
+hautnah erleben	prze¿yæ na w³asnej skórze 
+jdm begegnen	spotkaæ kogoœ 
+sich anfreunden mit D	oswoiæ siê z [czymœ]/zaprzyjaŸniæ siê z [kimœ] 
+sich fehl am Platz fühlen	czuæ siê na niew³aœciwym miejscu 
+die Hindernisse überwinden	przezwyciê¿aæ przeszkody 
+sämtlich	ca³kowicie 
+einen Anreiz bieten etw zu tun	zachêcaæ do zrobienia czegoœ 
+r Hürde, -n	p³otek, przeszkoda (+ Pl.)
+r Mehraufwand	nak³ad dodatkowy 
+e Reform, -en	reforma (+ Pl.)
+e Vereinheitlichung	ujednolicenie 
+r Verlust, -e	utrata, zguba (+ Pl.)
+verglichen mit D	w porównaniu z [czymœ] 
+im Vergleich/Unterschied/Gegensatz zu D	w porównaniu z [czymœ]/odró¿nieniu od/przeciwieñstwie do [czegoœ] 
+ähnlich wie bei/in D	podobnie jak w [czymœ] 
+anders als bei/in D	inaczej ni¿ w [czymœ] 
+r Aufwand	nak³ad dodatkowy 
+sowohl ... als auch ...	zarówno ... jak i ... 
+nicht nur ... sondern auch ...	nie tylko ... ale tak¿e ... 
+entweder ... oder ...	albo ... albo ... 
+weder ... noch ...	ani ... ani ... 
+zwar ... aber ...	wprawdzie ... ale ... 
+je ... desto ...	im ... tym ... 
+münden	uchodziæ (o rzece) 
+r Wirtschaftszweig, -e	ga³¹Ÿ gospodarki (+ Pl.)
+mittelfristig	œrednioterminowy 
+es herrscht ein Mangel	brakuje czegoœ 
+zitieren	cytowaæ 
+r Umfang, ä-e	zakres (+ Pl.)
+zustande kommen	dojœæ do skutku 
+frankieren	nalepiaæ znaczek 
+r Umschlag, ä-e	koperta (+ Pl.)
+e Bestürzung	konsternacja/przera¿enie 
+e Hochstimmung	radosny/uroczysty nastrój 
+e Anpassung	dopasowanie 
+r Schreck	strach 
+e Angleichung	dostosowanie 
+s Hochgefühl, ü-e	uczucie dumy/triumfu (+ Pl.)
+e Annäherung	zbli¿enie siê 
+e Festigung	umocnienie 
+r Rausch, ä-e	sza³/upojenie alkoholowe (+ Pl.)
+e Euphorie	euforia 
+e Akkulturation	akulturacja 
+r Ärmel, -	rêkaw (+ Pl.)
+sich drei Tage in Krakau auf-halten	zatrzymaæ siê na 3 dni w Krakowie 
+r Lautsprecher	g³oœnik 
+umfangreich	obszerny, rozleg³y 
+e Schärfe	ostroœæ 
+r Zwiespalt, -e	rozterka (+ Pl.)
+befriedigend	zadowalaj¹cy/dostateczny 
+sich amüsieren	bawiæ siê 
+e Stiftung	fundacja 
+ausreichend	wystarczaj¹cy 
+e Schranke, -n	bariera (+ Pl.)
+die Vorschriften ein-halten	przestrzegaæ przepisów 
+ein schuldhaftes Verhalten liegt nicht vor	chodzi o karygodne zachowanie 
+einem Gesetz unterliegen	podlegaæ ustawie 
+eine Gebühr als Sicherleistung erheben	pobraæ op³atê jako zabezpieczenie 
+Untermietung ist nicht gestattet	podnajem jest niedozwolony 
+gegen die Hausordnung verstoßen	wykroczyæ przeciwko regulaminowi domu 
+entstandene Schaden beseitigen	zlikwidowaæ powsta³e szkody 
+das Visum beantragen	z³o¿yæ podanie o wizê 
+eine Genehmigung erhalten	uzyskaæ zezwolenie 
+r Teich, -e	staw (+ Pl.)
+Rollschuh laufen	jeŸdziæ na wrotkach 
+e Schalter, -n	okienko (w urzêdzie) (+ Pl.)
+e Feierlichkeit	uroczystoœæ 
+r Aufsichtsrat, ä-e	rada nadzorcza (+ Pl.)
+s Gewehr, -e	karabin (+ Pl.)
+überqueren	przekraczaæ (np. rzekê, ulicê) 
+Kapitel 9 - Gefühle 
+s Unglück, -e	nieszczêœcie (+ Pl.)
+r Ärger	z³oœæ, gniew 
+e Einsamkeit	samotnoœæ 
+e Freude	radoœæ 
+r Leichtsinn	lekkomyœlnoœæ 
+e Scham	wstyd 
+e Trauer	¿a³oba 
+e Zufriedenheit	zadowolenie 
+erröten	czerwieniæ siê 
+e Heiterkeit	pogoda ducha 
+e Gesamtheit	spo³ecznoœæ 
+unscheinbar	niepozorny 
+erkennbar	widoczny/rozpoznawalny 
+Selbstzweifel haben	nie wierzyæ we w³asne mo¿liwoœci 
+e Wirkung	efekt, dzia³anie 
+e Auskunft, ü-e	informacja, wiadomoœæ (+ Pl.)
+wünschenswert	godny po¿¹dania 
+e Erörterung	rozprawa 
+r Versager, -	nieudacznik (+ Pl.)
+s Verantwortungbewusstsein	poczucie odpowiedzialnoœci 
+zerknirscht	skruszony 
+s Drehbuch	scenariusz filmowy 
+entlassen	zwolniæ (np. z pracy)/wypisaæ (np. ze szpitala) 
+bestimmt	na pewno (b.) (ok. 98%) 
+sicher	na pewno (s.) (ok. 98%) 
+auf jeden/keinene Fall	na pewno (a.j.f.) (ok. 98%) 
+ganz sicher nicht	na pewno nie (ok. 98%) 
+höchstwahrscheinlich	najprawdopodobniej (ok. 90%) 
+fast sicher	prawie na pewno (ok. 90%) 
+wahrscheinlich	prawdopodobnie (ok. 75%) 
+gut möglich	ca³kiem mo¿liwe (ok. 75%) 
+vermutlich	przypuszczalnie (ok. 60%) 
+möglicherweise	mo¿liwe (ok. 60%) 
+vielleicht	mo¿e (ok. 50%) 
+eventuell	ewentualnie (ok. 50%) 
+muss/kann nicht	na pewno/na pewno nie (mod.) (ok. 98%) 
+müsste	prawie na pewno (mod.) (ok. 90%) 
+dürfte	prawdopodobnie (mod.) (ok. 75%) 
+könnte	przypuszczalnie (mod.) (ok. 60%) 
+kann	mo¿e (mod.) (ok. 50%) 
+mögen	mo¿e (mod.) (ok. 40%) 
+Der Film wird wohl ein Happy End haben.	Film skoñczy siê pewnie happy endem. 
+e Handlung	akcja (np. filmu) 
+e Hauptperson, -en	g³ówny bohater (+ Pl.)
+e Füllfeder, -n	wieczne pióro (+ Pl.)
+r Bogen	arkusz papieru 
+e Tinte	atrament 
+nach-hängen	wspominaæ 
+Wie gehts dir denn?	Jak ci idzie (w³aœciwie)?  
+Er arbeitet wohl bei Militär.	On (chyba) pracuje w wojsku. 
+jdm schmeicheln	schlebiaæ komuœ 
+Das ist einfach unangenehm.	To jest (po prostu) nieprzyjemne. 
+Ich bin doch verheiratet.	Jestem (przecie¿) ¿onaty. 
+Du weißt ja, wie eifersüchtig er ist.	Wiesz (dobrze), jak on jest zazdrosny. 
+Besuchen Sie mich mal!	Odwiedzi³by mnie Pan kiedyœ! 
+Wie alt bist du eigentlich?	Ile (w³aœciwie) masz lat? 
+e Nachfrage	popyt 
+s Erstaunen	zdziwienie 
+e Einschränkung, -en	ograniczenie (+ Pl.)
+e Aufforderung	wezwanie, zachêta 
+e Abschwächung/Betonung	os³abienie/podkreœlenie 
+e Warnung	ostrze¿enie 
+auf jdn eingehen	odpowiedzieæ komuœ 
+sachlich	rzeczowy 
+bewältigen	pokonywaæ (np. trudnoœci) 
+umgehen mit D	obchodziæ siê z [czymœ] 
+r Erpresser	szanta¿ysta 
+sich D entziehen	unikn¹æ [czegoœ] 
+erschöpfen	wyczerpywaæ (si³y) 
+e Tapferkeit	dzielnoœæ 
+bezaubernd	czaruj¹cy 
+Ich bin gerührt.	Jestem wzruszony. 
+sich eine Woche frei-nehmen	wzi¹æ sobie tydzieñ wolnego 
+Ich teile deine Ansicht nicht, da ...	Nie podzielam twojej opinii, bo ... 
+eine Bedrohung wahrnehmen	dostrzegaæ zagro¿enie 
+eine Gefahr ahnen	przeczuwaæ niebezpieczeñstwo 
+Sehnsucht spüren	odczuwaæ têsknotê 
+von Liebe erfüllt sein	byæ przepe³nionym mi³oœci¹ 
+eine Krise durchleben	prze¿ywaæ kryzys 
+hervorragend	wybitny 
+r Nebendarsteller	aktor drugoplanowy 
+Der Film handelt um ...	Film opowiada o ... 
+ab-raten von D	odradzaæ [coœ] 
+hin-ziehen	poci¹gaæ (kogoœ) 
+e Ankündigung	zapowiedŸ 
+e Zuversicht	ufnoœæ, wiara 
+zerreißen	drzeæ (papier) 
+hervorheben	podkreœlaæ 
+vorwiegend	przewa¿nie 
+r Einwand, ä-e	zarzut (+ Pl.)
+e Gegenüberstellung	konfrontacja 
+infolge	wskutek 
+töten	uœmierciæ, zabiæ 
+jdm die Daumen drücken	trzymaæ z kogoœ kciuki 
+ratlos	bezradny 
+e Ratlosigkeit	bezradnoœæ 
+grausam	okrutny 
+vorher-sagen	prognozowaæ, przewidywaæ 
+misstrauisch	nieufny 
+liebevoll	czu³y 
+neidisch	zazdrosny 
+berechnend	wyrachowany 
+einsichtig	wyrozumia³y 
+vertrauenswürdig	godny zaufania 
+mitleidig	litoœciwy 
+vorsichtig	przezorny, ostro¿ny 
+ängstig	bojaŸliwy 
+verständnisvoll	wyrozumia³y, pe³en zrozumienia 
+vernünftig	rozs¹dny 
+den Blick senken	opuszczaæ wzrok 
+die Augen niederschlagen	spuszczaæ oczy 
+vor Schüchternheit erröten	zaczerwieniæ siê z nieœmia³oœci 
+r Gesichtsausdruck	wyraz twarzy 
+sich anschmiegen an A	przytuliæ siê do [kogoœ] 
+jdn umarmen	obejmowaæ [kogoœ] 
+jdn trösten mit D	pocieszaæ kogoœ [czymœ] 
+e Abneigung	niechêæ, antypatia 
+r Zugang, ä-e	wejœcie, dostêp (+ Pl.)
+angeboren	wrodzony 
+ein-engen	zawê¿aæ, ograniczaæ 
+aus-blenden	wycinaæ (np. scenê), wyciszaæ (np. muzykê) 
+an-greifen	atakowaæ 
+e Scham	wstyd 
+begünstigen	sprzyjaæ (czemuœ) 
+e Bindung	zwi¹zek/zobowi¹zanie 
+fokussieren	ogniskowaæ, koncentrowaæ 
+sich bewähren	sprawdziæ siê 
+s Gedächtnis, -se	pamiêæ (+ Pl.)
