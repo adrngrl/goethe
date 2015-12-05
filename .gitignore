@@ -3,6 +3,13 @@
 _*/
 _*/*/
 
+# OpenOffice temporary files
+*.*\#
+
+# Other temporary files
+*.*~
+
+
 # Images
 *.jpg
 *.pdf
