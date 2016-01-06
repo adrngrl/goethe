@@ -15,6 +15,9 @@ _*/*/
 *.pdf
 *.avi
 
+# Audio files
+*.mp3
+
 # Executables
 *.exe
 *.bat
